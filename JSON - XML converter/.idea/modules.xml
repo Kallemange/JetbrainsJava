@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON_-_XML_converter.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON_-_XML_converter.iml" group="JSON_-_XML_converter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter-task.iml" group="JSON_-_XML_converter/JSON_-_XML_converter-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter-task_main.iml" group="JSON_-_XML_converter/JSON_-_XML_converter-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON - XML converter/task/JSON_-_XML_converter-task_test.iml" group="JSON_-_XML_converter/JSON_-_XML_converter-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check IP address/Problems-Check_IP_address.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check IP address/Problems-Check_IP_address.iml" group="JSON_-_XML_converter/Problems-Check_IP_address" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check IP address/Problems-Check_IP_address_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check IP address/Problems-Check_IP_address_main.iml" group="JSON_-_XML_converter/Problems-Check_IP_address" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check IP address/Problems-Check_IP_address_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check IP address/Problems-Check_IP_address_test.iml" group="JSON_-_XML_converter/Problems-Check_IP_address" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Overloading methods/Problems-Overloading_methods.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Overloading methods/Problems-Overloading_methods.iml" group="JSON_-_XML_converter/Problems-Overloading_methods" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Overloading methods/Problems-Overloading_methods_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Overloading methods/Problems-Overloading_methods_main.iml" group="JSON_-_XML_converter/Problems-Overloading_methods" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Overloading methods/Problems-Overloading_methods_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Overloading methods/Problems-Overloading_methods_test.iml" group="JSON_-_XML_converter/Problems-Overloading_methods" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe password/Problems-Safe_password.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe password/Problems-Safe_password.iml" group="JSON_-_XML_converter/Problems-Safe_password" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe password/Problems-Safe_password_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe password/Problems-Safe_password_main.iml" group="JSON_-_XML_converter/Problems-Safe_password" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe password/Problems-Safe_password_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe password/Problems-Safe_password_test.iml" group="JSON_-_XML_converter/Problems-Safe_password" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Vehicle registration number/Problems-Vehicle_registration_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Vehicle registration number/Problems-Vehicle_registration_number.iml" group="JSON_-_XML_converter/Problems-Vehicle_registration_number" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Vehicle registration number/Problems-Vehicle_registration_number_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Vehicle registration number/Problems-Vehicle_registration_number_main.iml" group="JSON_-_XML_converter/Problems-Vehicle_registration_number" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Vehicle registration number/Problems-Vehicle_registration_number_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Vehicle registration number/Problems-Vehicle_registration_number_test.iml" group="JSON_-_XML_converter/Problems-Vehicle_registration_number" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="JSON_-_XML_converter/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="JSON_-_XML_converter/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="JSON_-_XML_converter/util" />
+    </modules>
+  </component>
+</project>
