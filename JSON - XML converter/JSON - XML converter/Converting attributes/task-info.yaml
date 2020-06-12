@@ -539,6 +539,9 @@ files:
         }
     }
   learner_created: true
+- name: test/testConverter.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/61/stages/330/implement
 status: Unchecked
 record: 2

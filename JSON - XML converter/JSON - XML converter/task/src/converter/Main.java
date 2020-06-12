@@ -1,5 +1,7 @@
 package converter;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
@@ -8,9 +10,22 @@ public class Main {
     private static String output;
     private static String key = "";
     private static String val = "";
+
     public static void main(String[] args){
-        Scanner scanner = new Scanner(System.in);
+        File inputFile      = new File("converterTest.txt");
+        try{
+            Scanner scanner = new Scanner(inputFile);
+        }
+        catch (FileNotFoundException e){
+            System.out.println(e.getMessage());
+            return;
+        }
+
+    }
+
+    private static void simpleConverter(){
         try {
+            Scanner scanner = new Scanner(System.in);
             input = scanner.nextLine().trim();
             if (input.charAt(0)=='<'){
                 extractXML();
@@ -29,9 +44,8 @@ public class Main {
             System.out.println(e.getMessage());
         }
     }
-
     private static void extractXML(){
-        char c = ' ';
+        char c;
         int i = 1;
         try {
             c = input.charAt(i);
